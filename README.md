@@ -17,7 +17,6 @@ N/A
 
 Each section of the study guide contains notes that have been gained from the Bootcamp and personal study. If the DevTools console is opened, evidence of JS code is present and running. 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
@@ -28,8 +27,6 @@ N/A
 MIT licence - please refer to the LICENCE in the repo.
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
